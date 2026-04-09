@@ -1,0 +1,254 @@
+🏢 COMPANY DETAILS (CONTEXT)
+
+Company Name: ALGO Artificial Intelligence
+Industry: Technology
+Focus Areas:
+
+Artificial Intelligence
+
+Machine Learning
+
+Data Science
+
+Company Mission:
+To bridge the gap between academic learning and real-world industry experience by providing live AI/ML/Data Science projects, mentorship, and career opportunities to students and professionals.
+
+Target Audience:
+
+Students (engineering, computer science, data science)
+
+Fresh graduates
+
+Early-career professionals
+
+Companies looking for AI solutions
+
+Brand Tone:
+Professional • Trustworthy • Innovative • Student-friendly • Tech-focused
+
+🎨 DESIGN & UI REQUIREMENTS
+
+Style: Classic, minimal, modern tech website
+
+Color Scheme:
+
+Primary: Blue (tech, trust)
+
+Secondary: Pink/Purple accent (innovation)
+
+Background: White / light gray
+
+Typography:
+
+Headings: Sans-serif (bold, modern)
+
+Body text: Clean, readable sans-serif
+
+Layout:
+
+Clean spacing
+
+Card-based sections
+
+Soft shadows
+
+Responsive: Fully responsive for desktop, tablet, and mobile
+
+Animations:
+
+Subtle hover effects
+
+Smooth scroll
+
+Simple fade-in sections (optional)
+
+🧭 WEBSITE STRUCTURE (PAGES & SECTIONS)
+1️⃣ HOME PAGE
+
+Hero section:
+
+Logo
+
+Headline:
+“Building Future Tech Minds with AI”
+
+Subtext explaining AI, ML, Data Science, Live Projects & Mentorship
+
+Call-to-Action buttons:
+
+“Join as Student”
+
+“Hire Us”
+
+Highlights section:
+
+Live Projects
+
+Expert Mentorship
+
+Real Industry Experience
+
+Career Opportunities
+
+Technologies section:
+
+Python, Machine Learning, Deep Learning, Data Science, AI Tools
+
+Why Choose ALGO AI
+
+Testimonials (dummy content allowed)
+
+Call to Action (Join / Contact)
+
+2️⃣ ABOUT US PAGE
+
+Company introduction
+
+Vision & Mission
+
+What makes ALGO Artificial Intelligence unique
+
+Focus on students + industry bridge
+
+Professional tone
+
+3️⃣ SERVICES PAGE
+
+AI Solutions
+
+Machine Learning Models
+
+Data Science & Analytics
+
+Student Live Projects
+
+Mentorship Programs
+
+Corporate / Startup AI Solutions
+
+Each service should have:
+
+Short description
+
+Icons or cards
+
+4️⃣ PROGRAMS / INTERNSHIPS PAGE
+
+Live Project Programs
+
+Internship Opportunities
+
+Mentorship Details
+
+Learning + Real Projects explanation
+
+Who can apply
+
+Benefits:
+
+Hands-on experience
+
+Industry guidance
+
+Certificates
+
+Job opportunities
+
+5️⃣ CAREERS / JOBS PAGE
+
+Open roles (dummy content allowed)
+
+Internships
+
+How to apply
+
+Growth opportunities at ALGO AI
+
+6️⃣ CONTACT US PAGE
+
+Contact form:
+
+Name
+
+Email
+
+Phone
+
+Message
+
+Company email (placeholder)
+
+Social media icons
+
+Google Map placeholder (optional)
+
+⚙️ TECHNICAL REQUIREMENTS
+
+Use HTML, CSS, and JavaScript only
+
+No backend required
+
+Clean folder structure:
+
+/index.html
+/about.html
+/services.html
+/programs.html
+/careers.html
+/contact.html
+/css/style.css
+/js/script.js
+/assets/images/
+
+
+SEO-friendly:
+
+Proper meta tags
+
+Page titles
+
+Descriptions
+
+Accessibility:
+
+Proper contrast
+
+Semantic HTML
+
+Fast loading
+
+Commented code (easy for beginners to understand)
+
+📱 EXTRA FEATURES (OPTIONAL BUT PREFERRED)
+
+Sticky navbar
+
+Smooth scrolling
+
+Scroll-to-top button
+
+Active menu highlighting
+
+Reusable components (navbar & footer)
+
+Footer with:
+
+Company info
+
+Quick links
+
+Social links
+
+Copyright text
+
+🎯 FINAL OUTPUT EXPECTATION
+
+Provide complete, working website code
+
+Code must be ready to run on Replit
+
+No placeholders like “add content here” — fill with meaningful content
+
+Keep it professional and realistic
+
+Beginner-friendly and clean

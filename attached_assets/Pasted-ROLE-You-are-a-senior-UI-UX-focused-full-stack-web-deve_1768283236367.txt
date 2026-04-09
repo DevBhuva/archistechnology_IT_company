@@ -1,0 +1,573 @@
+ROLE
+
+You are a senior UI/UX-focused full-stack web developer improving an existing website.
+
+GOAL
+
+Enhance the current ALGO Artificial Intelligence website by:
+
+Adding relevant high-quality images
+
+Adding classic, subtle animations
+
+Making each page more detailed and content-rich
+
+Keeping the design professional, classic, and tech-focused
+
+BRAND CONTEXT
+
+Company: ALGO Artificial Intelligence
+Domain: AI, ML, Data Science
+Audience: Students, freshers, professionals, recruiters
+Tone: Trustworthy • Classic • Modern Tech • Educational
+
+🎨 VISUAL & DESIGN ENHANCEMENTS
+IMAGES (VERY IMPORTANT)
+
+Use royalty-free, professional tech images such as:
+
+AI brain illustrations
+
+Data science dashboards
+
+Students working on laptops
+
+Mentorship / teamwork visuals
+
+Abstract technology backgrounds
+
+Image Placement Rules:
+
+Hero section → large background image with overlay
+
+Each major section → image + text (left-right layout)
+
+Services → icon + image cards
+
+Programs / Internships → student-focused visuals
+
+About page → company / teamwork visuals
+
+Use images from:
+
+Unsplash
+
+Pexels
+
+Freepik (free assets only)
+
+🎞️ CLASSIC ANIMATIONS (NOT OVERDONE)
+
+Use subtle, professional animations only:
+
+Fade-in on scroll
+
+Slide-up cards
+
+Smooth hover effects
+
+Button hover transitions
+
+Navbar underline animation
+
+Image zoom-on-hover (very light)
+
+⚠️ Avoid flashy or gaming-style animations.
+
+Use:
+
+CSS animations
+
+Intersection Observer (JS) OR simple CSS fade classes
+
+🧭 PAGE-BY-PAGE DETAILED IMPROVEMENTS
+🏠 HOME PAGE (Make it Strong & Catchy)
+
+Hero Section
+
+Background image (AI / technology)
+
+Overlay gradient
+
+Heading:
+“Building Future Tech Minds with Artificial Intelligence”
+
+Subtext:
+Real-world AI, ML & Data Science projects with expert mentorship.
+
+CTA buttons with hover animation
+
+Why ALGO AI
+
+4 cards with icons + images:
+
+Live Industry Projects
+
+Expert Mentorship
+
+Career-Oriented Learning
+
+Job Opportunities
+
+Technologies Section
+
+Logos/icons for:
+Python, ML, DL, AI, Data Science
+
+Animated hover glow
+
+Student Impact Section
+
+Image + text explaining how students grow
+
+Timeline-style or steps animation
+
+👤 ABOUT US PAGE (More Depth)
+
+Hero banner image
+
+Company story (detailed paragraph)
+
+Mission & Vision (card layout)
+
+What makes ALGO AI different
+
+Mentor-driven approach
+
+Animated statistics:
+
+Projects
+
+Students
+
+Mentors
+
+🛠️ SERVICES PAGE (Visual & Structured)
+
+Each service should include:
+
+Image
+
+Title
+
+Description
+
+Hover animation
+
+Services:
+
+AI Solutions
+
+Machine Learning Models
+
+Data Science & Analytics
+
+Student Live Projects
+
+Mentorship Programs
+
+Corporate AI Consulting
+
+🎓 PROGRAMS / INTERNSHIPS PAGE (VERY IMPORTANT)
+
+Student-focused hero image
+
+Explain:
+
+Live projects
+
+Real datasets
+
+Industry workflow
+
+Program cards:
+
+Duration
+
+Skills gained
+
+Tools used
+
+Benefits section with icons:
+
+Certificate
+
+Experience
+
+Job support
+
+CTA: “Apply Now”
+
+💼 CAREERS PAGE (Professional Feel)
+
+Career-focused banner image
+
+Why work with ALGO AI
+
+Open roles (cards)
+
+Internship opportunities
+
+Growth & learning culture
+
+Animated hover job cards
+
+📞 CONTACT PAGE (Clean & Trustworthy)
+
+Split layout:
+
+Left: contact info + image
+
+Right: form
+
+Form animation on focus
+
+Social media icons hover
+
+Optional map placeholder
+
+🧑‍💻 TECHNICAL IMPROVEMENTS
+
+Lazy loading for images
+
+Reusable navbar & footer
+
+Sticky navbar with shadow on scroll
+
+Scroll-to-top button
+
+SEO meta tags
+
+Fully responsive
+
+Clean, commented code
+
+📁 FILE STRUCTURE (KEEP CLASSIC)
+/assets/images/
+/assets/icons/
+/css/style.css
+/js/script.js
+index.html
+about.html
+services.html
+programs.html
+careers.html
+contact.html
+
+✅ FINAL EXPECTATION
+
+Website must look complete & premium
+
+Images must be meaningful (not decorative only)
+
+Animations must feel classic and smooth
+
+Content must feel real, not dummy
+
+Ready for deployment & sharing
+
+🚀 NEXT STEP (I CAN DO THIS FOR YOU)
+
+If you want, I can:
+
+Generate full upgraded code (all pages)
+
+Rewrite content professionally
+
+Suggest exact images + links
+
+Improve UI/UX layout section-by-section
+
+Just tell me:
+👉 “Generate full upgraded website code”
+or
+👉 “Start with Home page redesign first”
+
+You’re building something solid — now we make it premium 💼✨
+
+https://tecoreng.com/hire-developer< Also add page like this where company's can hire developers from us!
+
+Perfect 👍
+That link helps a lot. I clearly understand the “Hire Developers from Us” concept you want — very similar to Tecoreng’s hire-developer page, but branded and structured for ALGO Artificial Intelligence.
+
+Below is a READY-TO-USE, DETAILED PROMPT + PAGE SPECIFICATION you can directly give to Replit AI or use to build the page yourself.
+
+🔥 NEW PAGE ADDITION: “HIRE DEVELOPERS” (FOR COMPANIES)
+📄 PAGE NAME & ROUTE
+
+Page Title: Hire Developers
+
+File: hire-developers.html
+
+Menu Name: Hire Talent / Hire Developers
+
+🎯 PAGE GOAL
+
+Allow companies, startups, and founders to:
+
+Hire pre-trained, project-ready developers
+
+Save hiring time & cost
+
+Access AI, ML, Data Science talent trained via live projects
+
+Tone: Corporate, Trustworthy, Premium
+
+🧠 CONTEXT FOR AI / DEVELOPER
+
+Company: ALGO Artificial Intelligence
+Talent Source:
+Developers trained via:
+
+Live AI/ML/Data Science projects
+
+Real industry workflows
+
+Mentorship & evaluations
+
+Hiring Model:
+
+Interns
+
+Junior Developers
+
+Project-based hiring
+
+Full-time / Contract developers
+
+🧭 PAGE STRUCTURE (LIKE TEC ORENG, BUT BETTER)
+1️⃣ HERO SECTION (Strong First Impression)
+
+Background:
+
+Corporate tech image (team, developers, AI dashboards)
+
+Headline:
+
+Hire Industry-Ready AI & Tech Developers
+
+Subheading:
+Get skilled, project-tested developers trained on real-world AI, ML, and Data Science projects — ready to contribute from day one.
+
+CTA Buttons:
+
+“Hire Developers”
+
+“Request Talent”
+
+With hover animation + smooth scroll.
+
+2️⃣ WHY HIRE FROM ALGO AI (KEY DIFFERENTIATOR)
+
+4–6 ICON CARDS (Animated on Scroll):
+
+✅ Industry-Trained Talent
+
+✅ Live Project Experience
+
+✅ AI / ML / Data Science Focus
+
+✅ Cost-Effective Hiring
+
+✅ Flexible Hiring Models
+
+✅ Mentor-Reviewed Skills
+
+Short, crisp descriptions under each.
+
+3️⃣ AVAILABLE TALENT CATEGORIES
+
+Use card layout with images/icons:
+
+Talent We Provide:
+
+AI Engineers
+
+Machine Learning Engineers
+
+Data Scientists
+
+Python Developers
+
+Data Analysts
+
+Junior Full-Stack Developers
+
+Each card:
+
+Role title
+
+Skills summary
+
+“Hire Now” button
+
+Hover effect: slight lift + shadow.
+
+4️⃣ HIRING MODELS (VERY IMPORTANT)
+
+Create pricing-style cards (no prices needed):
+
+🔹 Hiring Options:
+
+Internship Hiring
+
+Contract-Based Hiring
+
+Full-Time Hiring
+
+Project-Based Hiring
+
+Each card explains:
+
+Duration
+
+Best use case
+
+Flexibility
+
+5️⃣ HOW IT WORKS (STEP-BY-STEP)
+
+Use timeline or numbered steps with animation:
+
+1️⃣ Share Your Requirements
+2️⃣ We Shortlist Best Candidates
+3️⃣ Interview / Review Profiles
+4️⃣ Onboard Developer
+5️⃣ Start Building
+
+Clean, simple, professional.
+
+6️⃣ SKILLS & TECHNOLOGIES
+
+Grid or logo-based section:
+
+Technologies Covered:
+
+Python
+
+Machine Learning
+
+Deep Learning
+
+Data Science
+
+AI Tools
+
+SQL
+
+Power BI / Tableau (optional)
+
+Light hover glow or grayscale → color effect.
+
+7️⃣ WHY COMPANIES TRUST ALGO AI
+
+Split layout (image + text):
+
+Developers trained on real datasets
+
+Mentor-verified skills
+
+Continuous learning culture
+
+Talent aligned with industry needs
+
+Optional:
+
+Dummy logos or testimonial cards
+
+8️⃣ CALL TO ACTION (STRONG CONVERSION)
+
+Big highlighted section with gradient background:
+
+Need Skilled Developers Fast?
+
+Text:
+Tell us your requirements and we’ll connect you with the right talent.
+
+Buttons:
+
+“Hire Developers”
+
+“Contact Us”
+
+9️⃣ CONTACT / HIRE FORM (CRITICAL)
+
+Form fields:
+
+Company Name
+
+Contact Person
+
+Email
+
+Phone
+
+Required Skills
+
+Hiring Type
+
+Message
+
+With:
+
+Focus animations
+
+Clean validation
+
+Professional layout
+
+🎨 DESIGN & ANIMATION RULES
+
+Classic corporate UI
+
+Smooth fade-in sections
+
+Hover animations on cards
+
+No flashy effects
+
+Consistent branding with main site
+
+⚙️ TECHNICAL REQUIREMENTS
+
+HTML, CSS, JavaScript only
+
+Reusable navbar & footer
+
+SEO meta tags:
+
+title: Hire Developers from ALGO AI
+
+description: Hire AI, ML & Data Science developers trained on live projects
+
+Fully responsive
+
+Beginner-friendly commented code
+
+📌 NAVIGATION UPDATE
+
+Add to navbar:
+
+Home
+
+About
+
+Services
+
+Programs
+
+Hire Developers
+
+Careers
+
+Contact
+
+✅ FINAL EXPECTATION
+
+Page must feel enterprise-ready
+
+Content must sound real & trustworthy
+
+Designed to convert companies
+
+Similar value as Tecoreng — but more AI-focused
