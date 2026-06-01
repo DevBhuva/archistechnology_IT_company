@@ -180,7 +180,7 @@ Preferred Time: ${selectedTime}`;
                     </div>
                     <div>
                       <h4 className="font-semibold text-slate-900">Call Us</h4>
-                      <p className="text-muted-foreground">+91 9722641969</p>
+                      <p className="text-muted-foreground">+91 90798 29443</p>
                       <p className="text-muted-foreground">Mon - Fri, 9am - 6pm</p>
                     </div>
                   </div>
@@ -206,7 +206,7 @@ Preferred Time: ${selectedTime}`;
               
               <div className="space-y-2">
                 <Label htmlFor="phone">Phone Number</Label>
-                <Input id="phone" placeholder="+91 9313483832" {...register("phone")} className="text-sm" />
+                <Input id="phone" placeholder="+91 90798 29443" {...register("phone")} className="text-sm" />
               </div>
 
              
